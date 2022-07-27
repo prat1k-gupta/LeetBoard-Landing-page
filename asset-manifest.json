@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/LeetBoard-Landing-page/static/js/main.4d41b5bb.js",
+    "main.js": "/LeetBoard-Landing-page/static/js/main.34158fc1.js",
     "static/media/LeetBoard.apk": "/LeetBoard-Landing-page/static/media/LeetBoard.e559fb32deb08caf42ac.apk",
-    "static/media/leetboard-image.png": "/LeetBoard-Landing-page/static/media/leetboard-image.b2fd2dc27a719e019e2a.png",
+    "static/media/leetboard-image.png": "/LeetBoard-Landing-page/static/media/leetboard-image.4b932be44797f36a7160.png",
     "index.html": "/LeetBoard-Landing-page/index.html",
-    "main.4d41b5bb.js.map": "/LeetBoard-Landing-page/static/js/main.4d41b5bb.js.map"
+    "main.34158fc1.js.map": "/LeetBoard-Landing-page/static/js/main.34158fc1.js.map"
   },
   "entrypoints": [
-    "static/js/main.4d41b5bb.js"
+    "static/js/main.34158fc1.js"
   ]
 }
